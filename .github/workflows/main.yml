@@ -1,4 +1,4 @@
-name: Generate Datas
+
 steps:
 on:
   schedule: # execute every 12 hours
