@@ -1,4 +1,4 @@
-## Olá Mundo! Prazer, Davi
+## Olá Mundo! Prazer, sou o Davi
 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 me contate em: davicrivelarocunhaa@gmail.com
