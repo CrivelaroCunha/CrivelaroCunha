@@ -3,7 +3,8 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 📫 me contate em: davicrivelarocunhaa@gmail.com
 - 😄 Pronouns: ele/dele
-- ⚡ Fun fact: fiz 4 anos da faculdade de Direito, mas sempre fiquei com o pé atrás com o curso pois não me via trabalhando na área. Meu desejo sempre foi de trabalhar com jogos. Ainda vou desenvolver o meu próprio jogo!
+- ⚡ Fun fact: fiz 4 anos da faculdade de Direito, mas sempre fiquei com o pé atrás com o curso pois não me via trabalhando na área. Migrei pra ADS em 2022 e sigo cursando e estudando por conta
+  
 
 <div align="center">
   <a href="https://github.com/CrivelaroCunha">
